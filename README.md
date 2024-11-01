@@ -1,4 +1,12 @@
-# Run
+# Usage
+
+## Install
+
+```shell
+npm install
+```
+
+## Run
 
 ```shell
 npx expo start # start local server
