@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "13348fe9-28e4-4c13-a6d0-b5bcc8942dab"
+      }
+    },
+    "owner": "vektor0823"
   }
 }
